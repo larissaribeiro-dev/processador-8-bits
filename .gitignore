@@ -1,0 +1,29 @@
+# --- Quartus: arquivos gerados por compilação ---
+db/
+incremental_db/
+output_files/
+*.qar
+*.qarlog
+*.qws
+*.done
+*.summary
+*.smsg
+*.qmsg
+
+# Backup automático de restauração do Quartus
+processador_8_bits_restored/
+
+# Backups de arquivos-fonte (.v.bak)
+*.bak
+
+# --- ModelSim: arquivos de simulação ---
+work/
+*.wlf
+transcript
+*.vcd
+*.mti
+*.cr.mti
+
+# --- Sistema operacional ---
+Thumbs.db
+.DS_Store
