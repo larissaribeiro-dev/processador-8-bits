@@ -1,7 +1,7 @@
 // =============================================================================
 // Arquivo    : processador_8_bits_top.v
 // Projeto    : Processador 8 bits
-// Autor      : Claude AI
+// Autor      : Claude AI, Larissa Ribeiro e Samy Mallmann
 // Descrição  : Módulo top-level do processador SAP-1.
 //              Instancia e conecta todos os submódulos através do barramento W.
 //              Mapeia os sinais para os pinos físicos da DE10-Lite.

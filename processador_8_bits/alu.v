@@ -1,7 +1,7 @@
 // =============================================================================
 // Arquivo    : alu.v
 // Projeto    : Processador 8 bits
-// Autor      : Claude AI
+// Autor      : Claude AI, Larissa Ribeiro e Samy Mallmann
 // Descrição  : Somador/Subtrator de 8 bits (ALU simplificada).
 //              Opera de forma ASSÍNCRONA — resultado sempre disponível.
 //              Usa complemento de dois para subtração, conforme Lista 4.

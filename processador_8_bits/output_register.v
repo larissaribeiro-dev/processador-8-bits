@@ -1,7 +1,7 @@
 // =============================================================================
 // Arquivo    : output_register.v
 // Projeto    : Processador 8 bits
-// Autor      : Claude AI
+// Autor      : Claude AI, Larissa Ribeiro e Samy Mallmann
 // Descrição  : Registrador de Saída — registrador de 8 bits que recebe o
 //              resultado do Acumulador A (via barramento W) e o mantém
 //              disponível para exibição no display binário (LEDs da DE10-Lite).

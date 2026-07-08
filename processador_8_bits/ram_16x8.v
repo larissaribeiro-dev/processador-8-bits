@@ -1,7 +1,7 @@
 // =============================================================================
 // Arquivo    : ram_16x8.v
 // Projeto    : Processador 8 bits
-// Autor      : Claude AI
+// Autor      : Claude AI, Larissa Ribeiro e Samy Mallmann
 // Descrição  : - Memória RAM 16x8 bits: armazena o programa e os dados.
 //              - 16 posições de 8 bits cada.
 //              - Apenas leitura durante execução (~CE habilita saída).

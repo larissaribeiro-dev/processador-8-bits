@@ -20,6 +20,7 @@ Projeto desenvolvido como relatório técnico para a disciplina de **Eletrônica
 - [Como executar](#como-executar)
 - [Extensão futura: controle via PC hospedeiro](#extensão-futura-controle-via-pc-hospedeiro)
 - [Referências](#referências)
+- [Vídeo de apresentação](#vídeo-de-apresentação)
 - [Autores](#autores)
 
 ---
@@ -325,6 +326,14 @@ Do lado do PC, um script (por exemplo, em Python com `pyserial`) seria responsá
 4. TERASIC INC. *DE10-Lite User Manual*. Hsinchu: Terasic Technologies, 2016.
 
 O relatório técnico completo está disponível em [`relatorio-do-projeto/relatorio-processador-de-8-bits-eletronica-digital-II.pdf`](relatorio-do-projeto/relatorio-processador-de-8-bits-eletronica-digital-II.pdf).
+
+---
+
+## Vídeo de apresentação
+
+Vídeo com a explicação da arquitetura, estrutura do projeto, código e resultados:
+
+[![Assista no YouTube](https://img.youtube.com/vi/hFtpx2RRRTw/hqdefault.jpg)](https://youtu.be/hFtpx2RRRTw)
 
 ---
 

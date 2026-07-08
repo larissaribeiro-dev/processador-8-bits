@@ -1,7 +1,7 @@
 // =============================================================================
 // Arquivo    : accumulator.v
 // Projeto    : Processador 8 bits
-// Autor      : Claude AI
+// Autor      : Claude AI, Larissa Ribeiro e Samy Mallmann
 // Descrição  : Acumulador A — registrador de 8 bits que armazena resultados
 //              intermediários durante a execução do processador.
 //

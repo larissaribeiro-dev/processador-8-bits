@@ -1,7 +1,7 @@
 // =============================================================================
 // Arquivo    : mar.v
 // Projeto    : Processador 8 bits
-// Autor      : Claude AI
+// Autor      : Claude AI, Larissa Ribeiro e Samy Mallmann
 // Descrição  : Memory Address Register (MAR) — registrador de 4 bits.
 //              Armazena o endereço de memória que será acessado na RAM.
 //

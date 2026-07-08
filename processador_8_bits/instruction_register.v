@@ -1,7 +1,7 @@
 // =============================================================================
 // Arquivo    : instruction_register.v
 // Projeto    : Processador 8 bits
-// Autor      : Claude AI
+// Autor      : Claude AI, Larissa Ribeiro e Samy Mallmann
 // Descrição  : Registrador de Instruções (IR) de 8 bits.
 //              Recebe a instrução completa do barramento W e a divide em:
 //                - Nibble alto [7:4] → opcode  → vai para o Controller

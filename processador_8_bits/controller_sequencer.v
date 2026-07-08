@@ -1,18 +1,18 @@
 // =============================================================================
 // Arquivo    : controller_sequencer.v
 // Projeto    : Processador 8 bits
-// Autor      : Claude AI
+// Autor      : Claude AI, Larissa Ribeiro e Samy Mallmann
 // Descrição  : Controlador-Sequenciador — núcleo do SAP-1.
 //              Implementa a FSM com 6 estados de temporização (T1–T6)
 //              usando um RING COUNTER (contador circular).
 //              Gera a palavra de controle de 12 bits que comanda todos
 //              os registradores conforme a instrução em execução.
 //
-// ┌─────────────────────────────────────────────────────────────────┐
-// │  PALAVRA DE CONTROLE — 12 bits                                  │
+// ┌─────────────────────────────────────────────────────────────────────────┐
+// │  PALAVRA DE CONTROLE — 12 bits                                          │
 // │  CON = Cp | Ep | ~Lm | ~CE | ~Li | ~Ei | ~La | Ea | Su | Eu | ~Lb | ~Lo │
-// │        11   10    9     8     7     6     5    4    3    2    1     0  │
-// └─────────────────────────────────────────────────────────────────┘
+// │        11   10    9     8     7     6     5    4    3    2    1     0   │
+// └─────────────────────────────────────────────────────────────────────────┘
 //
 // Ring Counter — acionado pela borda NEGATIVA do clock
 // Apenas uma saída alta por vez: T1, T2, T3, T4, T5, T6, T1, T2...

@@ -1,7 +1,7 @@
 // =============================================================================
 // Arquivo    : program_counter.v
 // Projeto    : Processador 8 bits
-// Autor      : Claude AI
+// Autor      : Claude AI, Larissa Ribeiro e Samy Mallmann
 // Descrição  : Contador de Programa (PC) de 4 bits.
 //              Armazena o endereço da próxima instrução a ser buscada.
 //              Conta de 0000 a 1111 (0 a 15) conforme a execução avança.

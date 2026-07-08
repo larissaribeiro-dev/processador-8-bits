@@ -1,7 +1,7 @@
 // =============================================================================
 // Arquivo    : register_b.v
 // Projeto    : Processador 8 bits
-// Autor      : Claude AI
+// Autor      : Claude AI, Larissa Ribeiro e Samy Mallmann
 // Descrição  : Registrador B — registrador de 8 bits usado exclusivamente
 //              para fornecer o segundo operando ao Somador/Subtrator (ALU).
 //              Não possui saída para o barramento W (sem sinal Enable).

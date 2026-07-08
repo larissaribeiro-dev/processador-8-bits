@@ -1,7 +1,7 @@
 // =============================================================================
 // Arquivo    : clock_divider.v
 // Projeto    : Processador 8 bits
-// Autor      : Claude AI
+// Autor      : Claude AI, Larissa Ribeiro e Samy Mallmann
 // Descrição  : Divisor de clock. Recebe 50 MHz da DE10-Lite e gera um clock
 //              lento (~1 Hz) para que a execução do processador seja visível
 //              nos LEDs da placa.
